@@ -1,5 +1,9 @@
-let count = document.getElementById("count")
-let customer = document.getElementById("customer")
-let save = document.getElementById("save")
+let count = 0
+let currentCount = document.getElementById("current-count")
+let save = document.getElementById("save-bttn")
 
-count = 0
+
+function addCustomer() {
+    count += 1
+    currentCount.textContent = count
+}
