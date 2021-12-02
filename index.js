@@ -11,4 +11,6 @@ function addCustomer() {
 function saveCount() {
     let previousEntries = count + " - "
     save.textContent += previousEntries
+    currentCount.textContent = 0
+    count = 0
 }
