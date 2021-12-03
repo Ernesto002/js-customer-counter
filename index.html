@@ -1,5 +1,6 @@
 <html lang="en">
 <head>
+    <!-- Link css stylesheet -->
     <link rel="stylesheet" href="index.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,14 +9,22 @@
 </head>
 <body>
     <h1>Customers Entered:</h1>
+
+    <!-- Initialize the "current-count" HTML to 0 -->
     <h2 id="current-count">0</h2>
+
+    <!-- Create buttons which invoke specific functions when clicked -->
     <button id="customer-bttn" onclick="addCustomer()">Customer</button>
     <button id="save-bttn" onclick="saveCount()">Save</button>
+
+    <!-- Create div which includes previous entries paragraph -->
     <div id="entries-container">
         <p id="previous-customers">Previous entries: </p>
     </div>
+
+    <!-- Link index.js file -->
     <script src="index.js">
-        
     </script>
+
 </body>
 </html>
