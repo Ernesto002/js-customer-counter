@@ -33,4 +33,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/Ernest
 
 # License
 
-This code is available for then general public under this [LICENSE](https://github.com/Ernesto002/js-customer-counter/blob/master/LICENSE).
+This code is available for the general public under this [LICENSE](https://github.com/Ernesto002/js-customer-counter/blob/master/LICENSE).
