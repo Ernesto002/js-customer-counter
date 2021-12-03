@@ -4,7 +4,7 @@ let count = 0
 // currentCount variable grabs the "current-count" element from the DOM
 let currentCount = document.getElementById("current-count")
 
-// save variable grabs the "previous-customers" from the DOM
+// save variable grabs the "previous-customers" element from the DOM
 let save = document.getElementById("previous-customers")
 
 // addCustomer function adds 1 to the customer count each time 
