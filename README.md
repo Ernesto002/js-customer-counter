@@ -23,6 +23,6 @@ within your terminal for windows
 OR
 
 ```bash
-open idex.html
+open index.html
 ```
 for mac in order to open and use the app
