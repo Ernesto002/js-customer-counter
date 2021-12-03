@@ -35,3 +35,11 @@ button {
 #save-bttn {
     background: green;
 }
+
+#entries-container {
+    text-align: center;
+    width: fit-content, 10px;
+    height: fit-content;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
