@@ -26,3 +26,11 @@ OR
 open index.html
 ```
 for mac in order to open and use the app
+
+# Contributing
+
+Bug reports and pull requesta are welcome on GitHub at https://github.com/Ernesto002/js-customer-counter. This project is intended to be a safe, welcoming space for collaboration, and contributers are expected to adhere to the [CODE_OF_CONDUCT](https://github.com/Ernesto002/js-customer-counter/blob/master/CODE_OF_CONDUCT.md)
+
+# License
+
+This code is available for then general public under this [LICENSE](https://github.com/Ernesto002/js-customer-counter/blob/master/LICENSE).
